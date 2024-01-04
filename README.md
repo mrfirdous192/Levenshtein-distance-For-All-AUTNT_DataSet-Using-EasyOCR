@@ -1,0 +1,2 @@
+# Levenshtein-distance-For-All-AUTNT_DataSet-Using-EasyOCR
+In this paper, we present the first benchmark performance of multi-script scene as well as document type components of a publicly available multi-utility dataset named AUTNT. Besides traditional metrics such as word recognition rate or character recognition rate, we include edit distance distribution to reflect more on the obtained results. 
